@@ -1,4 +1,4 @@
-# templates-project
+# description-templates
 
 Projet avec des templates pour:
 - les issues
