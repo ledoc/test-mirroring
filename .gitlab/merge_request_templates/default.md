@@ -40,8 +40,5 @@ Expliquez pourquoi ces modifications sont nécessaires et ce qu'elles accompliss
 - **Migration de données requise ?** [Oui/Non + Explications]
 
 
-
 - **Ticket lié :** [Numéro du ticket ou issue GitLab]
 - **Documentation associée :** [Lien vers la documentation]
-
-
